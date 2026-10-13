@@ -2,7 +2,7 @@
 
 > A modern web platform for exploring fuel prices, inflation trends, transportation costs, and economic insights in Pakistan.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](YOUR_LIVE_URL)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge)](https://fuelguard-pakistan.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
